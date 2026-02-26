@@ -1,2 +1,2 @@
-# wilhelm-rolstad
-fesgfsegsef90
+About me
+2nd year informatics Bachelor student at NTNU
